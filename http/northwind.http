@@ -1,0 +1,19 @@
+###
+GET http://localhost:8080/api/report/revenue_per_year
+
+###
+GET http://localhost:8080/api/report/reorder_products
+
+###
+GET http://localhost:8080/api/report/suppliers_for_category/Seafood
+
+###
+GET http://localhost:8080/api/report/employee_max_orders
+
+###
+GET http://localhost:8080/api/report/revenue_per_category
+
+###
+GET http://localhost:8080/api/report/top_shipper_per_region
+
+###
